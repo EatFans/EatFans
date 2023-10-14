@@ -137,6 +137,7 @@
 
 <tr><td>
 
+<div align="center" >
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
