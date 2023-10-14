@@ -7,9 +7,10 @@
  
 欢迎来到我的GitHub主页，你好！我是EatFan，你可以叫我“饭” QwQ
  
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/EatFans/EatFans/assets/122099628/ca87829d-0ec2-4472-bf96-c16ec5caaec9" width="50%" height="auto" />
 
- 
+![github-snake](https://github.com/EatFans/EatFans/assets/122099628/f92e7250-0ddc-4333-8168-a5412058145b)
+
 #### 🌱 这些是我目前所做的事情 🌱 : 
 - 独立游戏开发
 - 智能家具系统开发
@@ -17,6 +18,8 @@
  
  
 #### ⚡ 我感兴趣的事情 ⚡ : 
+
+
 - Chat GPT
 - 
 #### 🌻 我正在学习... 🌻
