@@ -79,7 +79,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的17岁！</a> - 2023-02-25
+* <a href='https://eatfans.github.io' target='_blank'>奔跑在自己的时区里，你好哇，我的17岁！</a> - 2023-02-25
 <!-- END_SECTION:blog -->
 
 </td></tr>
