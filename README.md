@@ -5,23 +5,22 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lina-zhang-58440b101/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](eatfan0921@gmail.com)
  
-Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
+欢迎来到我的GitHub主页，你好！我是EatFan，你可以叫我“饭” QwQ
  
 <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
  
  
-#### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
+#### 🌱 这些是我目前所做的事情 🌱 : 
+- 独立游戏开发
+- 智能家具系统开发
 - [My website](https://eatfans.github.io) 🚀 *coming soon*
  
  
-#### ⚡ Things recent ones I'm interested in ⚡ : 
+#### ⚡ 我感兴趣的事情 ⚡ : 
 - Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
-#### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
+- 
+#### 🌻 我正在学习... 🌻
+- Java
+- Godot引擎游戏开发
+- JavaScript
+- 全栈开发
