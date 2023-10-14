@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎来到饭的GitHub!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello World!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -139,7 +139,7 @@
 
 <div align="center" >
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+#### 💪 正在学习
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
@@ -151,13 +151,13 @@
 
 
   
-🧠 计划学习
+#### 🧠 计划学习
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
-🧰 常用的工具
+#### 🧰 常用的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
