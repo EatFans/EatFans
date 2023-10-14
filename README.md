@@ -27,13 +27,10 @@
 - 游戏开发
 - 逆向工程
 
-#### 🌻 我正在学习... 🌻
-- Java
-- Godot引擎游戏开发
-- JavaScript
-- 全栈开发
+#### 🌻 我常使用的语言 🌻 :
 
 ![EatFan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=EatFans&show_icons=true&count_private=true&theme=gotham)
 
+***
 
 ![github-snake](https://github.com/EatFans/EatFans/assets/122099628/f92e7250-0ddc-4333-8168-a5412058145b)
