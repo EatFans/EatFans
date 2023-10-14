@@ -9,7 +9,6 @@
  
 <img align="right" alt="img" src="https://github.com/EatFans/EatFans/assets/122099628/ca87829d-0ec2-4472-bf96-c16ec5caaec9" width="50%" height="auto" />
 
-![github-snake](https://github.com/EatFans/EatFans/assets/122099628/f92e7250-0ddc-4333-8168-a5412058145b)
 
 #### 🌱 这些是我目前所做的事情 🌱 : 
 - 独立游戏开发
@@ -27,3 +26,6 @@
 - Godot引擎游戏开发
 - JavaScript
 - 全栈开发
+
+
+![github-snake](https://github.com/EatFans/EatFans/assets/122099628/f92e7250-0ddc-4333-8168-a5412058145b)
