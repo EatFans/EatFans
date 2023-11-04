@@ -84,37 +84,7 @@
 
 </td></tr>
 
-<tr><td>
 
-### 🧠 Second Brain
-<!-- 第二大脑 思考 -->
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/life/books/%E4%B8%83%E5%B9%B4%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90/01.html' target='_blank'>人生最重要的概念：复利</a> - 2023-09-30
-* <a href='https://brain.sunguoqi.com/web/frontend/css/css-in-depth/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/css/css-world/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/my-notes/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-09-08
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-<!-- 有趣的灵魂 -->
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
 
 <tr><td>
 
