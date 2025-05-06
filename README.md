@@ -39,8 +39,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是EatFan，你可以叫我“饭”。</p>
-<p>&emsp;&emsp;喜欢魔方、电脑、书法、咖啡</p>
+<p>&emsp;&emsp;你好啊！我是EatFan，你可以叫我“饭”。</p>
+<p>&emsp;&emsp;喜欢开发！喜欢滑板！喜欢自由！</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的全栈开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -81,37 +81,20 @@
 <div align="center" >
 <!--  skill badge 技能徽章 -->
   
-#### 💪 正在学习
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Java Badge](https://img.shields.io/badge/Java-092E20?logo=java&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-
-
-  
-#### 🧠 计划学习
-
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-
-#### 🧰 常用的工具
-
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<h3>展示台</h3>
+
+<img style="margin-bottom: 10px;" src="https://skillicons.dev/icons?i=clion,idea,pycharm,webstorm,rider,androidstudio,vscode,visualstudio,git,github,gitlab,docker," />
+<br>
+<img style="margin-bottom: 10px;" src="https://skillicons.dev/icons?i=godot,unity,unreal,blender" />
+<br>
+<img style="margin-bottom: 10px;" src="https://skillicons.dev/icons?i=c,cpp,cs,java,go,javascript,typescript,python,swift" />
+<br>
+<img style="margin-bottom: 10px;" src="https://skillicons.dev/icons?i=cmake,vue,mongodb,mysql,redis,dotnet,gradle,maven,qt,nodejs,vite," />
+<br>
+<img style="margin-bottom: 10px;" src="https://skillicons.dev/icons?i=windows,apple,linux,kali,ubuntu" />
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -124,6 +107,8 @@
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
@@ -150,23 +135,54 @@
 ```mermaid
 mindmap
   root((饭))
-    编程
-      前端开发
+    技术
+      前端
+        Vue.js
+        Uni-app
+        Axios
+      后端
+        Spring
+        SpringBoot
+        SpringCloud
+        Redis
+        Mysql
+        Gin
+      移动端
+        IOS
+        鸿蒙
+        Android
       游戏开发
-      人工智能
-      后端开发
-    摄影
-      风光
-    旅行
-      上海
-      南京
-      合肥
-      寿县
-    阅读
-      心理学
-      个人成长
-      社会文化
+        Unity
+        Unreal
+        Godot
+        OpenGL
+    编程语言
+      C
+      C++
+      Java
+      Python
+      JavaScript
+      Go
+      C#
+      TypeScript
+      Swing
+      ArkTS
+    解锁地点
+      安徽
+        安庆
+        合肥
+        芜湖
+      江苏
+        南京
+        南通
+      浙江
+        杭州
+      上海      
+    爱好
+      滑板🛹
+      魔方
       计算机技术
+      CSGO
 ```
 
 <!--START_SECTION:waka-->
@@ -270,5 +286,5 @@ Windows                  20 hrs 52 mins      ███████████�
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
-<div align="center">
+<div align="center"> </div>
 
