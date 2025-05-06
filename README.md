@@ -95,6 +95,7 @@
 <img style="margin-bottom: 10px;" src="https://skillicons.dev/icons?i=cmake,vue,mongodb,mysql,redis,dotnet,gradle,maven,qt,nodejs,vite," />
 <br>
 <img style="margin-bottom: 10px;" src="https://skillicons.dev/icons?i=windows,apple,linux,kali,ubuntu" />
+<br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
