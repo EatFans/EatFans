@@ -131,8 +131,6 @@
 
 <div align="center" >
   
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=EatFans&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
