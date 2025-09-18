@@ -51,20 +51,6 @@
 <td>
 
 
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://eatfans.github.io' target='_blank'>奔跑在自己的时区里，你好哇，我的17岁！</a> - 2023-02-25
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-
-
 <tr><td>
 
 <!-- wakatime 统计 -->
@@ -131,115 +117,13 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<div align="center" >
-
-```mermaid
-mindmap
-  root((饭))
-    技术
-      前端
-        Vue.js
-        Uni-app
-        Axios
-      后端
-        Spring
-        SpringBoot
-        SpringCloud
-        Redis
-        Mysql
-        Gin
-      移动端
-        IOS
-        鸿蒙
-        Android
-      游戏开发
-        Unity
-        Unreal
-        Godot
-        OpenGL
-    编程语言
-      C
-      C++
-      Java
-      Python
-      JavaScript
-      Go
-      C#
-      TypeScript
-      Swing
-      ArkTS
-    解锁地点
-      安徽
-        安庆
-        合肥
-        芜湖
-      江苏
-        南京
-        南通
-      浙江
-        杭州
-      上海      
-    爱好
-      滑板🛹
-      魔方
-      计算机技术
-      CSGO
-```
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                364 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-🌆 Daytime                521 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
-🌃 Evening                537 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
-🌙 Night                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Tuesday                  196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Wednesday                216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Thursday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Friday                   457 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Sunday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   17 hrs 59 mins      ██████████████████████░░░   86.17 % 
-JavaScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-SCSS                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 7 mins       ████████████████████████░   96.40 % 
-IntelliJ                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-
-💻 Operating System: 
-Windows                  20 hrs 52 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/10/2023 01:11:15 UTC
-<!--END_SECTION:waka-->
-  
 </td></tr>
 </table>
 
 
 <div align="center" >
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
-</div>
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -257,22 +141,11 @@ Windows                  20 hrs 52 mins      ███████████�
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EatFans&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EatFans&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
-<!-- Awesome repo 比较好的仓库-->
-<!-- 仓库展示
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
--->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
-
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
